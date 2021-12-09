@@ -9,7 +9,7 @@ node_modules
 coverage
 
 # production
-/my-app/build
+/my-app/lib
 
 # misc
 .DS_Store

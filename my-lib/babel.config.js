@@ -1,0 +1,13 @@
+module.exports = {
+    "presets": [
+        "@babel/preset-env",
+        [
+            "@babel/preset-react",
+            {
+                "runtime": "automatic" // This removes need to import react in each file
+            }
+        ],
+        "@babel/preset-typescript"
+    ]
+};
+
