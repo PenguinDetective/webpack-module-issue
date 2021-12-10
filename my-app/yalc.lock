@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@my-lib/apple": {
+      "signature": "717f3efce384be42d568f005c4c1640b",
+      "link": true
+    }
+  }
+}

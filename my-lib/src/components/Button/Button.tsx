@@ -7,5 +7,5 @@ type ButtonProps = {
 };
 
 export function Button(props: ButtonProps) {
-  return <button className={styles.banana}>{props.text}</button>;
+  return <button className={styles.banana}>{props.text} XXXXXX</button>;
 }

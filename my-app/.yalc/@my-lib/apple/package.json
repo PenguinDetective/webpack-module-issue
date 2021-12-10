@@ -1,0 +1,15 @@
+{
+  "name": "@my-lib/apple",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "types": "./lib/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc --declaration --emitDeclarationOnly && webpack --mode=development --watch",
+    "build": "tsc --declaration --emitDeclarationOnly && webpack --mode=production"
+  },
+  "yalcSig": "717f3efce384be42d568f005c4c1640b"
+}
