@@ -1,3 +1,3 @@
-import "./scss/main.scss"
+// import "./scss/main.scss"
 
 export * from './components';
